@@ -9,6 +9,9 @@ const config = {
       fallback: 'index.html',
       precompress: false
     }),
+    paths: {
+      base: '/alexisflorence.github.io', // Replace 'repository-name' with your actual repository name
+    },
     // other options
   }
 };
