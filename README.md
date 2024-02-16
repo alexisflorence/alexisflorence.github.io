@@ -30,14 +30,14 @@ This website serves as a central hub for visitors to learn more about me, Alexis
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/alexisflorence-portfolio.git
+   git clone https://github.com/alexisflorence/alexisflorence.github.io.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd alexisflorence-portfolio
+   cd alexisflorence.github.io.git
    ```
 
 3. Install dependencies:
