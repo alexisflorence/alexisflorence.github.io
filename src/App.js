@@ -5,8 +5,27 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello, my name is Alexis Florence</h1>
-        <p>I am a software developer in WV</p>
+        <h1>Alexis Florence</h1>
+        <p>
+          Hello my name is Alexis Florence I am a recent graduate of
+          Northeastern University with my Masters in Computer Science.
+        </p>
+        <div className="social-links">
+          <a
+            href="https://www.linkedin.com/in/alexisflorence"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
+          <a
+            href="https://github.com/alexisflorence"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+        </div>
       </header>
     </div>
   );
