@@ -7,12 +7,12 @@ function App() {
       <header className="App-header">
         <h1>Alexis Florence</h1>
         <p>
-          Hello my name is Alexis Florence I am a recent graduate of
+          Hello, my name is Alexis Florence. I am a recent graduate of
           Northeastern University with my Masters in Computer Science.
         </p>
         <div className="social-links">
           <a
-            href="https://www.linkedin.com/in/alexisflorence"
+            href="https://www.linkedin.com/in/alexis-florence/"
             target="_blank"
             rel="noopener noreferrer"
           >

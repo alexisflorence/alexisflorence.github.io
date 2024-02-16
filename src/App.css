@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +26,21 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.social-links {
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 20px;
+  color: #333;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: #007bff; /* Change to your preferred hover color */
 }
 
 @keyframes App-logo-spin {
