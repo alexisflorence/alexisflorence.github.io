@@ -1,33 +1,19 @@
 import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
+import Homepage from "./pages/homepage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Alexis Florence</h1>
-        <p className="Intro">
-          Hello, my name is Alexis Florence. I am a recent graduate of
-          Northeastern University with my Masters in Computer Science.
-        </p>
-        <div className="social-links">
-          <a
-            href="https://www.linkedin.com/in/alexis-florence/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            LinkedIn
-          </a>
-          <a
-            href="https://github.com/alexisflorence"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub
-          </a>
-        </div>
-      </header>
-    </div>
+    <Router>
+      {" "}
+      {/* Router component added here */}
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<Homepage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
