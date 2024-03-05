@@ -17,9 +17,14 @@ const INFO = {
       "Hello World! As a recent Computer Science Master's graduate from Northeastern University, my passion for technology drives me. I'm on the lookout for a role where I can channel my knowledge into innovative software solutions and grow as an engineer.",
   },
 
+  recent: {
+    title: "Current / Recent Project:",
+    description: "Below is my most recent project I am currently working on.",
+  },
+
   projects: [
     {
-      title: "Recent Project : Bitebook",
+      title: "Recent Project - Bitebook",
       description:
         "BiteBook is more than just a dynamic web application for food lovers; it's a personal project born out of a need to support my brother during his expereince with Hodgkin's Lymphoma. As he undergoes a stem cell transplant, a crucial part of his recovery involves meticulously logging his dietary intake for his nutritionist. This necessity sparked the creation of BiteBook.",
       logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",

@@ -31,6 +31,10 @@
 	width: 85% !important;
 }
 
+.homepage-recent {
+	width: 85% !important;
+}
+
 .homepage-first-area-right-side {
 	display: flex;
 	align-items: center;
@@ -73,6 +77,13 @@
 
 .homepage-after-title {
 	display: flex;
+}
+
+.homepage-recent{
+	color: var(--secondary-color);
+	font-size:20px;
+	font-weight: 500;
+	color: #A7C451;
 }
 
 .homepage-projects {

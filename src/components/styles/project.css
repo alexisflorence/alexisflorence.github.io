@@ -2,7 +2,7 @@
 
 .project {
 	mix-blend-mode: normal;
-	border-radius: 20px;
+	border-radius: 5px;
 	opacity: 0.8;
 	height: 100%;
 }
@@ -24,6 +24,7 @@
 
 .project-container {
 	padding: 30px;
+	padding-top: 5px;;
 }
 
 .project-logo {

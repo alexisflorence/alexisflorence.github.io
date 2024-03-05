@@ -75,11 +75,10 @@ const Homepage = () => {
                 />
               </a>
             </div>
-
             <div className="homepage-projects">
+              {/* <div className="homepage-recent">Current / Recent Project:</div> */}
               <AllProjects />
             </div>
-
             <div className="homepage-after-title">
               <div className="homepage-articles"></div>
             </div>
