@@ -5,14 +5,10 @@ Welcome to my personal portfolio website! This React application serves as a sho
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
