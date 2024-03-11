@@ -24,6 +24,15 @@ const INFO = {
 
   projects: [
     {
+      title: "Current Project - Deep Learning",
+      description:
+        "I have begun fast.ai's Machine Learning and Deep Learning courses. This repository is my digital notebook, a place where I track my progress, share insights, and display projects developed during the course. My goal is to not only deepen my understanding of machine learning and AI principles but also to apply this knowledge in solving real-world problems.",
+      logo: "/fastai.png",
+      linkText: "View Repo",
+      link: "https://github.com/alexisflorence/DeepLearning",
+    },
+
+    {
       title: "Recent Project - Bitebook",
       description:
         "BiteBook is more than just a dynamic web application for food lovers; it's a personal project born out of a need to support my brother during his expereince with Hodgkin's Lymphoma. As he undergoes a stem cell transplant, a crucial part of his recovery involves meticulously logging his dietary intake for his nutritionist. This necessity sparked the creation of BiteBook.",
