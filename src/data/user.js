@@ -33,6 +33,15 @@ const INFO = {
     },
 
     {
+      title: "Recent Project - Stride",
+      description:
+        "Stride is a mobile-responsive web application that was created to assist workout tracking by integrating with the Notion API to manage and retrieve workout videos and logs. Crafted with Flask and Python, styled with Tailwind CSS, and deployed via Fly.io, Stride allow you to randomly select workouts from an existing Notion database, and log sessions.",
+      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+      linkText: "View Project",
+      link: "https://github.com/alexisflorence/Stride",
+    },
+
+    {
       title: "School Projects",
       description:
         "For a look at the projects I completed during my masters. Check out my Github.",
