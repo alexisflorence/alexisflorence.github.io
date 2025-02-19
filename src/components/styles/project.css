@@ -1,5 +1,6 @@
 @import "../../data/styles.css";
 
+/* respoonsible for the styling for individual Project cards */
 .project {
 	mix-blend-mode: normal;
 	border-radius: 5px;
@@ -11,6 +12,8 @@
 	text-decoration: none;
 }
 
+
+/* hover effects */
 .project:hover {
 	background: #fafafa;
 	opacity: 1;
@@ -48,6 +51,7 @@
 	color: var(--secondary-color);
 }
 
+/* link styling */
 .project-link {
 	display: flex;
 	align-items: center;
